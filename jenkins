@@ -1,0 +1,4 @@
+pipeline
+{
+agent name < pool name>
+}
