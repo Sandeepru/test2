@@ -1,4 +1,8 @@
 pipeline
 {
+<<<<<<< HEAD
 agent name < pool name>
+=======
+agent
+>>>>>>> develop
 }
